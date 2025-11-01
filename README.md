@@ -1,6 +1,11 @@
 # flask
 simple portfolio using flask.
 
+structure :-
+created a folder name portfolio whhere app.py is my main file . 
+Then created a folder named templates where my html files are placed.
+later created a folder named static where my css file is placed.
+
 terms new to me :-
 1.templates  
    Folder that contains all HTML pages. Flask looks here for render_template().
